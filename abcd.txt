@@ -1,0 +1,556 @@
+such as Lean, Agile and DevOps
+
+
+Which is an example of a service request?
+
+Which is included in the purpose of the service level management practice?
+
+
+Which guiding principle considers customer and user experience?
+
+What is the MAIN benefit of problem management?
+
+
+
+
+
+
+
+
+I'm working in an organization from 1 month and a half for Oracle Primavera suite
+
+which is:
+unifier
+eppm
+ppm p6
+obiee
+now recently we need to link power bi to ppm p6
+and we have sync software
+================================================================
+
+
+I have around 3 jobs, let's discuss them
+- sync config
+- linking power bi to ppm p6
+- what else you could help me as well
+
+actually, I was very sick having strong flu last 5 days, actually currently I have do pmp exam after 5 days so I'm really very busy for those next 5 days as you know that the exam is very difficult so it needs more focus,
+
+
+Anyhow, so since I joined the organization and I'm doing the work by myself and cannot really handle everything, so I had one guy with me earlier in the company and he was here for last 4 months and he left the company last 2 weeks for peronal emergency and he won't be back so now all the work on my head. which is really very difficult to work and manage by myself so I need help in a lot of things and we will see how it will be going on.
+
+My colleage had purchased a software to do synching between EPPM and Unifier and I remember it was working fine but when I tried to work on it it didn't work, so what I understood it needs rest api connection for both unifier and eppm and I'll show right now.
+
+
+Second thing I need from you is doing the linking from Power Bi to P6 desktop software.
+
+and I would like you if you don't mind to let me know about you as you and what you could help into Primavera for further collaboration. so you could share your screen if you want to write something or draw something in general to be quite clear as well for me.
+
+
+
+
+
+
+
+
+trigger from one table to another table
+
+
+sync api
+
+
+انا عندي بنت تستنزف مبالغ رهيبة
+بنات خالد راح يشتغلوا في اقرب وقت وباحسن الرواتب
+انا بناتي اذا راحوا يشتغلوا راح يشتغلوا بعد عشرين سنة
+فخالد وضعه يعتبر جدا تمام
+
+
+انا مش عارف كيف جات هذه الشغلة عندك
+شكلك وقتها فزعت لهم فيها وماكان فيه احد
+
+هشام الزفت يقول في واحد اسمه وهيب باعبدالله هو اللي عنده، مين هذا
+
+0502766242
+
+Lean, Agile and DevOps 
+
+
+Which practice includes the use of approaches such as Lean, Agile and DevOps with the aim of facilitating a  greater amount of change at a quicker rate?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Where is the platform that I'm going to learn
+How many hours total I need to learn Aconex
+
+7 hours
+
+
+cloud
+
+
+admin
+professional  ===== plus +Admin
+
+70%
+
+Documents for training
+
+Interview questions
+
+
+https://hanghieugiatot.com/which-type-of-change-only-needs-to-be-assessed-prior-to-the-first-time-its-implemented
+
+
+
+
+
+Hi Ankit,  for sure I will assign the project to you before we start the training, so no worries for that. and the payment we can make it $15 per hour.  and the scope will be Unifier (Udesigner - Report) and how to connect to unifier from api connection,  also Primavera P6 and oracle BI. so the whole training will take time with you. So please confirm the things which I mentioned above so we can move ahead and if you don't mind let's have quick call in this tuesday or whenesday for 5 mints to confirm. Thank you very much
+
+
+
+
+
+
+
+Hussam & Basheer talk about me
+
+
+ahmed.ashoor@engineer.com
+Ahmedshoor*20
+
+
+
+
+
+
+
+
+Sync
+I have plsql to send email
+I need to create plsql triggers to move one email from one table to another table
+Exam answer
+
+
+
+
+
+
+
+
+
+
+
+
+[
+    {
+        "name": "W_GUID",
+        "value": "3d7d249e-60bc-230a-3af4-e9d8a368f06e",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "strict",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1701090672,
+        "storeId": null
+    },
+    {
+        "name": "_kjb_ua_components",
+        "value": "c9fae5ebcc2247e12b505c1e1d450bbd",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "_gcl_au",
+        "value": "1.1.32646264.1699752748",
+        "domain": ".projectcontroltraining.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1707528748,
+        "storeId": null
+    },
+    {
+        "name": "viewedOuibounceModal",
+        "value": "true",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1701784493,
+        "storeId": null
+    },
+    {
+        "name": "vs_uniques_template_metadata",
+        "value": "eJyLNjI0NbYwMrYwNdOBMc0M4ExT01gAfSsHLA%3D%3D",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1716730128,
+        "storeId": null
+    },
+    {
+        "name": "_ga_P9ZE4B5YM0",
+        "value": "GS1.1.1701015989.8.1.1701017996.49.0.0",
+        "domain": ".projectcontroltraining.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1764089996,
+        "storeId": null
+    },
+    {
+        "name": "AWSALBTG",
+        "value": "NQIYBrTPjpKx7aEg60FzaeFQZWPNfOlXNCryxxbqdL68vdXGa8RnnAugLDpLQJ4sXp8XNpklPdGzkz9RDBaKuQZNCE+Tr8lw16IrnnIZviaJgp+9OQmn5yaFngqtlJ9Nycha8NkDie5cNVrhcAzmD1c63t/19k+rkUJmL/Y07HE5",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1701622797,
+        "storeId": null
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.1.1873989935.1699752748",
+        "domain": ".projectcontroltraining.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1764089996,
+        "storeId": null
+    },
+    {
+        "name": "_cfuvid",
+        "value": "ht._s52pDVxCzPb75ToLyglOHk9mQJ4Iy9nYvWNjLN0-1701015990816-0-604800000",
+        "domain": ".projectcontroltraining.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "_fbp",
+        "value": "fb.1.1699753207215.742537724",
+        "domain": ".projectcontroltraining.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1708793996,
+        "storeId": null
+    },
+    {
+        "name": "_kjb_session",
+        "value": "1cf84a9002e777dd7be4288850af0f64",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1701104397,
+        "storeId": null
+    },
+    {
+        "name": "AWSALBTGCORS",
+        "value": "NQIYBrTPjpKx7aEg60FzaeFQZWPNfOlXNCryxxbqdL68vdXGa8RnnAugLDpLQJ4sXp8XNpklPdGzkz9RDBaKuQZNCE+Tr8lw16IrnnIZviaJgp+9OQmn5yaFngqtlJ9Nycha8NkDie5cNVrhcAzmD1c63t/19k+rkUJmL/Y07HE5",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1701622797,
+        "storeId": null
+    },
+    {
+        "name": "vs_uniques_landing_page",
+        "value": "eJwlirkNwEAMwxZyIf%2FyLEH2XyPxHdQQIh%2FTYIOuIYvVBs7igDV93kkLhMrvNFuUAx8cs7s9Wcjw9wO6JhDc",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1716732710,
+        "storeId": null
+    },
+    {
+        "name": "W_LMT",
+        "value": "true",
+        "domain": "members.projectcontroltraining.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "strict",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1701104399,
+        "storeId": null
+    }
+]
+
+
+
+
+I believe there is a worm in your back ass hole
+
+
+
+
+بيت عم صالح وعم محسن
+عنبرة وصالحه
+اولادهم (عبدالله، احمد، احمد)
+
+جابره وخالي محمد
+
+خالي احمد وحرمته مريم
+وزوج خالتي مريم اسمه عبدالله توفى تقريبا سنة 1970
+
+خالتي مريم وخالتي نور وبنتها خديجه ومنه
+
+
+علي ابوبكر ، واخوه محمد ابوبكر
+امهم عقبه
+
+
+اعمامي
+عم سالم
+عم عبيد
+عم عمر
+ابويا
+عم علي
+جدي ابوبكر
+حبابتي خديجة
+
+
+جدي ابو امي، عبدالله
+ستي، خديجة
+
+
+بيت ابو صالح
+(صالح، عزو، ابراهيم، عبدالرحمن)
+جوز عزه باحميد
+
+
+بيت عم فرج
+سالم فرج، محفوظ فرج، محمد فرج
+اولادهم خالد، حمدي، فهد
+
+
+عبدالله صالح صاحب ابويا
+
+
+
+
+
+https://members.projectcontroltraining.com/products/forensic-schedule-delay-analysis/categories/1203661/posts/4036224
+
+https://members.projectcontroltraining.com/products/forensic-schedule-delay-analysis/categories/1203662/posts/4053968
+
+https://members.projectcontroltraining.com/products/forensic-schedule-delay-analysis/categories/1203662/posts/4053969
+
+https://members.projectcontroltraining.com/products/forensic-schedule-delay-analysis/categories/1203663/posts/
+
+
+
+
+https://www.projectcontrolacademy.com/project-controls-training/
+-----------------------------------------------------------------------------------------------------------------
+
+https://members.projectcontroltraining.com/products/forensic-schedule-delay-analysis
+
+
+
+https://members.projectcontroltraining.com/products/applied-project-controls
+https://members.projectcontroltraining.com/products/project-scheduling-blueprint
+https://fast.wistia.com/embed/medias/wn6fyk9xa6.m3u8
+
+
+https://fast.wistia.com/embed/medias/wn6fyk9xa6.m3u8?start_position=26.09658466666667
+
+https://fast.wistia.com/embed/medias/wn6fyk9xa6.m3u8
+
+1- https://fast.wistia.com/embed/medias/zpae5eftnm.m3u8
+
+3- https://fast.wistia.com/embed/medias/b6okosh692.m3u8 
+
+4- https://fast.wistia.com/embed/medias/m4vcrh139j.m3u8            
+
+5- https://fast.wistia.com/embed/medias/qx3bgtvis9.m3u8
+
+6-
+
+
+
+https://fast.wistia.com/embed/medias/rgfupyf7a4.m3u8
+
+
+wistia
+
+
+https://members.projectcontroltraining.com/products/forensic-schedule-delay-analysis/categories/1283929/posts/4303689
+
+
+https://members.projectcontroltraining.com/products/forensic-schedule-delay-analysis/categories/2149687307/posts/2155365641
+
+Cookie editor
+
+
+https://fast.wistia.com/embed/medias/0uftyuks9o.m3u8
+https://fast.wistia.com/embed/medias/0uirgnfuqm.m3u8
+https://fast.wistia.com/embed/medias/0ul1q64v49.m3u8
+https://fast.wistia.com/embed/medias/0um3fovycw.m3u8
+https://fast.wistia.com/embed/medias/0umnwkndln.m3u8
+https://fast.wistia.com/embed/medias/0un89oclyp.m3u8
+https://fast.wistia.com/embed/medias/0up3gksbrd.m3u8
+https://fast.wistia.com/embed/medias/0utc0rz771.m3u8
+https://fast.wistia.com/embed/medias/0uw07qfhp5.m3u8
+https://fast.wistia.com/embed/medias/0uwn1jauwu.m3u8
+https://fast.wistia.com/embed/medias/0ux8pkm8io.m3u8
+https://fast.wistia.com/embed/medias/0v23zmidf4.m3u8
+https://fast.wistia.com/embed/medias/0v4yb3zjpc.m3u8
+https://fast.wistia.com/embed/medias/0v7x11ti95.m3u8
+https://fast.wistia.com/embed/medias/0vcrxxvci3.m3u8
+https://fast.wistia.com/embed/medias/0vdcghjk0o.m3u8
+https://fast.wistia.com/embed/medias/0viecqxdo9.m3u8
+https://fast.wistia.com/embed/medias/0vj8oaf06b.m3u8
+https://fast.wistia.com/embed/medias/0vliyeawo9.m3u8
+
+
+
+
+
+https://members.projectcontroltraining.com/products/project-scheduling-blueprint
+
+https://members.projectcontroltraining.com/products/project-claims-management
+
+
+
+
+https://members.projectcontroltraining.com/products/project-change-management
+https://members.projectcontroltraining.com/products/power-bi-visual-data-analytics-for-project-controls
+https://members.projectcontroltraining.com/products/quantitative-project-cost-schedule-risk-analysis
+
+https://members.projectcontroltraining.com/products/earned-value-management-mastery
+https://members.projectcontroltraining.com/products/claims-prevention-resolution
+
+project change management
+
+Power BI Visual Data Analytics for Project Controls
+
+quantitative project cost & schedule risk analysis
+
+Earned Value Management Mastery
+
+Claims Prevention & Resolution
+
+
+
+
+
+Hi ,
+No, it's not my website, it's public. 
+
+Actually I have a user in a website which I have subscribed for 1 year course, this course is displaying videos online particularly for the course that I have subscribed and I have noticed that the videos can run even without username credentials. This website has other courses as well so I would like you to help me in how to collect the URLs of other videos which are on the website. That's it.
+
+
+
+الزمن هذا مايقدروا الشخص الطيب، يقدروا الشخص اللي ياكل بعقلهم حلاوة
+
+https://dl4all.org/ebooks/198473-organizational-behaviour-2nd-edition-by-stephen-p-robbins.html
+
+https://www.programme-tv.net/programme/telefilm/3986007-la-sulfureuse/
+
+https://www.programme-tv.net/cinema/22224969-libertinages-en-maisons-dhotes/
+
+
+معلن
+مراسلة في حراج
+966561996655
