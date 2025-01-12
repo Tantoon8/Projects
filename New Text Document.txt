@@ -1,8 +1,68 @@
-<html>
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+using System.Windows;
 
+namespace UnifierAPIExample
+{
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
 
-<body>
-<p>employee created</p>
-</body>
+        // Define the method that will get data definitions
+        private async Task GetDataDefinitions(string baseUrl, string type, string filterName, string filterDataSource)
+        {
+            using (var client = new HttpClient())
+            {
+                try
+                {
+                    // Encode parameters for the URL
+                    string encodedType = Uri.EscapeDataString(type);
+                    string encodedFilterName = Uri.EscapeDataString(filterName);
+                    string encodedFilterDataSource = Uri.EscapeDataString(filterDataSource);
 
-</html>
+                    // Construct the full URL with parameters
+                    string url = $"{baseUrl}/api/data-definitions?type={encodedType}&filter={{\"name\":\"{encodedFilterName}\",\"data_source\":\"{encodedFilterDataSource}\"}}";
+
+                    // Send the GET request to the Unifier API
+                    HttpResponseMessage response = await client.GetAsync(url);
+
+                    // Check if the response is successful
+                    if (response.IsSuccessStatusCode)
+                    {
+                        // Read the response as a string (JSON, for example)
+                        string responseData = await response.Content.ReadAsStringAsync();
+
+                        // Handle the response (you could deserialize it if it's in JSON format)
+                        MessageBox.Show($"Response: {responseData}");
+                    }
+                    else
+                    {
+                        // If the request was not successful, show the status code
+                        MessageBox.Show($"Error: {response.StatusCode}");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Handle any exceptions
+                    MessageBox.Show($"Exception: {ex.Message}");
+                }
+            }
+        }
+
+        // This could be called when a button is clicked or some other event triggers it
+        private async void OnGetDataDefinitionsButtonClicked(object sender, RoutedEventArgs e)
+        {
+            string baseUrl = "https://your-unifier-instance.com"; // Replace with your Unifier instance URL
+            string type = "Basic"; // Or "Cost Codes" or "Data Picker"
+            string filterName = "Sample DD Name"; // Specify the name for the filter
+            string filterDataSource = ""; // Leave empty if no filter on data_source
+
+            // Call the method to fetch data definitions
+            await GetDataDefinitions(baseUrl, type, filterName, filterDataSource);
+        }
+    }
+}
